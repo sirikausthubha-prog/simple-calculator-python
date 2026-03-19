@@ -1,22 +1,28 @@
-# Simple Calculator (Python)
+# Beginner Python Projects
 
-This is a menu-based simple calculator built using Python.
+This repository contains beginner-level Python console projects.
 
-## Features
+## 1️⃣ Simple Calculator
+Menu-based calculator supporting:
 - Addition
 - Subtraction
 - Multiplication
 - Division
 - Division by zero handling
-- Continuous calculation using loop
+- Continuous calculation loop
 
-## How to Run
-1. Download the file
-2. Open terminal in that folder
-3. Run:
-   python simple_calculator.py
+Run using:
+python simple_calculator.py
 
-## Author
-Beginner Python learning project.
-## Project Status
-Completed as part of beginner Python practice.
+
+## 2️⃣ Number Guessing Game
+A simple game where the user guesses a randomly generated number.
+
+Features:
+- Random number generation
+- Attempt counter
+- Replay option
+- User input validation
+
+Run using:
+python guessing_game.py
