@@ -18,3 +18,5 @@ This is a menu-based simple calculator built using Python.
 
 ## Author
 Beginner Python learning project.
+## Project Status
+Completed as part of beginner Python practice.
